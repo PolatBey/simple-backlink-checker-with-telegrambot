@@ -1,9 +1,10 @@
 //const http = require("http");
 const axios = require("axios");
-const search = "google";
+
 const fs = require("fs");
 const { bot } = require("./setting");
-const { chat_id } = require("./setting");
+const { chat_id , search_word} = require("./setting");
+const search = search_word;
 const readline = require("readline");
 
 const main = function () {
