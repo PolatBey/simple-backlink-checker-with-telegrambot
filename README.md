@@ -25,7 +25,7 @@ how start
 have to 3 command to simple bot. 
 - /add 
 - /check
-- /list 
+- /list
 
 
 /add this command you can add the list.txt on last line the url example: /add https://google.com/
@@ -34,6 +34,6 @@ have to 3 command to simple bot.
 
 /list this command get the list in the list.txt and post the on telegram list count and upload it the list.txt 
 
-# Enjoy! 
-v1 version code on 2.12.2021 // i did this code with in 30 minutes :) 
+# Enjoy! &hearts; 
+v1 version code on  2.12.2021 // i did this code with in 30 minutes :).
 so your need to fix this code have to maybe errors.
