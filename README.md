@@ -12,11 +12,10 @@ HERE_TELEGRAM_TOKEN and HERE_CHAT_ID and HERE_KEYWORLD write in setting..js line
 
 # Start to bot
 if change the setting.js just to need in server or windows start to command.
-
 the app.js is main server file so need to run it the script
 
 how start 
-1. nodemon app.js  or node app.js
+- nodemon app.js  or node app.js
 
 
 
@@ -24,9 +23,9 @@ how start
 # Command of the bot 
 
 have to 3 command to simple bot. 
-1. /add 
-2. /check
-3. /list 
+- /add 
+- /check
+- /list 
 
 
 /add this command you can add the list.txt on last line the url example: /add https://google.com/
@@ -37,5 +36,4 @@ have to 3 command to simple bot.
 
 # Enjoy! 
 v1 version code on 2.12.2021 // i did this code with in 30 minutes :) 
-
 so your need to fix this code have to maybe errors.
