@@ -8,7 +8,7 @@ first use the npm i code for terminal
 that code install the modules of need the start. 
 after need to change / HERE_TELEGRAM_TOKEN and HERE_CHAT_ID
 
-HERE_TELEGRAM_TOKEN and HERE_CHAT_ID write in setting..js line 3 and 6 change your telegram token & chat_id on this file. 
+HERE_TELEGRAM_TOKEN and HERE_CHAT_ID and HERE_KEYWORLD write in setting..js line 3 , 6 , 7 change your telegram token & chat_id on this file. 
 
 # Start to bot
 if change the setting.js just to need in server or windows start to command.
