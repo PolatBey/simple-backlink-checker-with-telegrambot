@@ -4,7 +4,7 @@ Hacklink &amp; Backlink checker v1
 
 #SETUP  
 
-first uste the npm i code for terminal 
+first use the npm i code for terminal 
 that code install the modules of need the start. 
 after need to change / HERE_TELEGRAM_TOKEN and HERE_CHAT_ID
 
